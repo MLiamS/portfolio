@@ -18,3 +18,10 @@
 .side-buffer { margin-left:20px;
               margin-right:20px;
 }
+
+.wrap-right img{
+  float: right;
+  max-height: 250px;
+
+
+}
