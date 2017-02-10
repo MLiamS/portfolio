@@ -22,3 +22,13 @@ margin-top: 25px;
 .center{
   text-align: center;
 }
+
+.main-text{
+  font-family: Lora;
+}
+
+.title1{
+  letter-spacing: 2px;
+  font-family: Slabo;
+
+}
