@@ -1,6 +1,6 @@
 # _Portfolio Landing_
 
-#### _First asignment for week one of Epicodus, 2/10/17_
+#### _First assignment for week one of Epicodus, 2/10/17_
 
 #### By _**Liam Stabeno**_
 
