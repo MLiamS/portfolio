@@ -37,9 +37,18 @@ margin-top: 25px;
     text-decoration: underline;
 }
 
-.boxy
-  {
+.boxy{
     border: 1px solid #a7aeba;
     border-radius: 25px;
     margin: 15px;
     }
+
+h6{
+    border-bottom: 1px solid #a7aeba;
+    text-align: center;
+    }
+.links{
+  font-family: monospace;
+  font-style: italic;
+  text-align: center;
+}
