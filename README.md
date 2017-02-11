@@ -14,7 +14,7 @@ _A "Portfolio Landing" webpage with information about the author_
 * _Open the index.html file in a browser_
 * _please enjoy_
 
-## Known Bugs
+## Issues with the assignment
 
 _Was having problems with git not pushing quite a few of my commits, I included a screenshot of the terminal, Commits.png_
 
